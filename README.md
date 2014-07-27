@@ -1,8 +1,8 @@
 Cleaning Wearable Data
 ======================
 
-ata Cleaning for wearable computing activities data
-------------------------------------------
+Cleaning for wearable computing activities data
+----------------------------------------
 
 Using the data set for wearable computing activities data the analysis is carried out. The R script called 'run_analysis.R' does the following on the data set.
   1. Merges the training and the test sets to create one data set.
